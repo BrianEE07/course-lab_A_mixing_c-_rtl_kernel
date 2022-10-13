@@ -1,0 +1,23 @@
+{
+    "schema_version": {
+        "major": "1",
+        "minor": "2",
+        "patch": "0"
+    },
+    "generation": {
+        "this_file": "\/mnt\/HLSNAS\/01.LlPpRA\/course-lab_A_mixing_c++_rtl_kernel\/02-mixing-c-rtl-kernels\/reference-files\/xrt.run_summary",
+        "source": "vp",
+        "PID": "816180",
+        "timestamp": "1665678941689"
+    },
+    "files": [
+        {
+            "name": "opencl_trace.csv",
+            "type": "VP_TRACE"
+        },
+        {
+            "name": "summary.csv",
+            "type": "PROFILE_SUMMARY"
+        }
+    ]
+}
